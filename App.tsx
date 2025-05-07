@@ -262,6 +262,7 @@ const styles = StyleSheet.create({
   },
   buttonDisabled: {
     backgroundColor: '#A0AEC0',
+    borderColor: '#CBD5E1',
   },
   buttonText: {
     color: '#fff',
